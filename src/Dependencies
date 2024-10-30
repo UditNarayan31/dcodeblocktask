@@ -1,0 +1,40 @@
+# Project Name
+
+## Overview
+
+This project is built using Vue.js and integrates various libraries and frameworks to enhance functionality and user experience.
+
+## Dependencies
+
+This project utilizes the following dependencies:
+
+- **Vue.js**: A progressive JavaScript framework for building user interfaces.  
+  Version: `^3.5.12`  
+  [Vue.js Documentation](https://vuejs.org/)
+
+- **Vue Router**: The official router for Vue.js, enabling navigation between components.  
+  Version: `^4.4.5`  
+  [Vue Router Documentation](https://router.vuejs.org/)
+
+- **Vuex**: A state management pattern + library for Vue.js applications.  
+  Version: `^4.0.2`  
+  [Vuex Documentation](https://vuex.vuejs.org/)
+
+- **Vuetify**: A material design component framework for Vue.js, providing a rich set of UI components.  
+  Version: `^3.7.0-beta.1`  
+  [Vuetify Documentation](https://vuetifyjs.com/en/)
+
+- **Material Design Icons (MDI)**: A set of icons that follow Material Design guidelines.  
+  Version: `^7.4.47`  
+  [MDI Documentation](https://materialdesignicons.com/)
+
+- **Firebase**: A platform for building mobile and web applications, providing a wide array of services including authentication and database.  
+  Version: `^11.0.1`  
+  [Firebase Documentation](https://firebase.google.com/docs)
+
+## Installation
+
+To install the dependencies, run the following command:
+
+```bash
+npm install

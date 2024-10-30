@@ -1,0 +1,22 @@
+# Task Management Application
+
+## Overview
+
+This is a Task Management Application built with Vue.js, Vuetify and Firebase. It allows users to register, log in, and manage their profiles. Admins can log in with static credentials to view and manage the registered users.
+
+## Features
+
+- **User Registration and Login**
+  - Users can register using Firebase Authentication.
+  - User data is stored in Firebase Realtime Database.
+  - Users can log in and view their profile details.
+
+- **Admin Functionality**
+  - Admin can log in with static credentials.(email-> admin@gmail.com, pass->admin )
+  - Admin can view the list of registered users on the dashboard.
+  - Admin can update user information.
+
+## Installation
+
+
+   

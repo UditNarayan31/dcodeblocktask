@@ -1,0 +1,16 @@
+# Vue.js Task Management Application
+
+## Overview
+
+This project is a simple task management application built using Vue.js and Vuetify. It allows users to create, update, and delete tasks using a form. The submitted tasks are displayed on the right side of the interface. 
+
+## Features
+
+- **Dynamic Task Form**: Users can fill out a form with all required fields (title, description, etc.) to create a new task.
+- **Task Display**: Once submitted, the tasks are displayed on the right side of the page.
+- **Update and Delete Tasks**: Users can update existing tasks or delete them as needed.
+- **Static Data**: The application uses static data for demonstration purposes and does not connect to any backend or database.
+
+## Installation
+
+
